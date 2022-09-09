@@ -1,0 +1,63 @@
+*{
+    font-family: 'Prompt', sans-serif;
+
+}
+
+#nav {
+    background-color: #FFCDD2;
+}
+
+#nav img {
+
+    width: 15vw;
+}
+
+.nav-link {
+
+    font-weight: bold;
+    color: #D32F2F;
+}
+
+h1 {
+    margin-top: 2rem;
+    color: #D32F2F;
+}
+
+#burger-btn {
+    width: 10px;
+}
+
+.main-img {
+
+    width: 25vw;
+}
+
+.main_map--size {
+
+    width: 90vw;
+}
+
+.ft-img {
+
+    width: 25px;
+}
+
+#carousel {
+
+    height: 40vh;
+
+}
+
+#container-form {
+    background-color: rgb(238,238,238);
+}
+
+#container-form span {
+
+    font-weight: bold;
+}
+
+#container-form button {
+
+    font-weight: bold;
+}
